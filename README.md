@@ -3,7 +3,7 @@
 I'm **Aakashsingh Rajput**, a passionate student and full-stack developer, with a strong grip on **DSA (Java)**, **MERN stack development**, **Python**, and much more!  
 I love building scalable applications and constantly learning new technologies to solve real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AakashsinghRajput&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Aakashsingh-Rajput&color=blue)
 
 ---
 
