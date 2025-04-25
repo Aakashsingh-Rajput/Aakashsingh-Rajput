@@ -53,4 +53,4 @@ I love building scalable applications and constantly learning new technologies t
 ---
 
 ⚡ **Fun Fact:**  
-> "Sometimes I debug by explaining the code to my rubber duck... and guess what? It works! 🐥🚀"
+> "I'm not a magician, but I turn coffee into full-stack applications. ☕✨💻"
