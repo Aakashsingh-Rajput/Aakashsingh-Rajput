@@ -1,4 +1,5 @@
-![Aakashsingh Rajput](https://github.com/user-attachments/assets/e5543b3e-572b-441f-bf39-29f2cc8d33f3)
+![Aakashsingh Rajput](https://github.com/user-attachments/assets/f8d09e97-80c6-4cc1-9497-70907df9e9c1)
+
 --
 # Hi there! 👋
 
