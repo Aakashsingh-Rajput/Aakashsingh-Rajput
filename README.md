@@ -1,3 +1,5 @@
+![Aakashsingh Rajput](https://github.com/user-attachments/assets/e5543b3e-572b-441f-bf39-29f2cc8d33f3)
+--
 # Hi there! 👋
 
 I'm **Aakashsingh Rajput**, a passionate student and full-stack developer, with a strong grip on **DSA (Java)**, **MERN stack development**, **Python**, and much more!  
