@@ -31,13 +31,12 @@ I love building scalable applications and constantly learning new technologies t
 
 ---
 
-## 🔥 Contribution Stats:
+## 🔥 Contribution Stats :
 
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakashsinghRajput&show_icons=true&theme=react)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashsinghRajput&layout=compact&theme=react)
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AakashsinghRajput&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="streak stats"/>
+</p>
+--
 
 ## 📫 Let's Connect:
 
