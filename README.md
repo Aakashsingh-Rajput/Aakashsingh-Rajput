@@ -39,9 +39,8 @@ I love building scalable applications and constantly learning new technologies t
 ## 🔥 Contribution Stats :
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakashsingh-Rajput&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&count_private=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=Aakashsingh-Rajput&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&count_private=true" alt="streak stats"/>
 </p>
-
 
 --
 
