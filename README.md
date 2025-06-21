@@ -1,4 +1,4 @@
-![Aakashsingh Rajput](https://github.com/user-attachments/assets/851d3e0d-4abe-4c22-8de5-0825f6cd9eef)
+yt![Aakashsingh Rajput](https://github.com/user-attachments/assets/851d3e0d-4abe-4c22-8de5-0825f6cd9eef)
 
 # Hi there! 👋
 
@@ -9,7 +9,7 @@ I love building scalable applications and constantly learning new technologies t
 
 ---
 
-## 🚀 Languages:
+##  Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +21,7 @@ I love building scalable applications and constantly learning new technologies t
 
 ---
 
-## 🛠️ Tools, Technologies & IDEs:
+##  Tools, Technologies & IDEs:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -36,7 +36,7 @@ I love building scalable applications and constantly learning new technologies t
 
 ---
 
-## 🔥 Contribution Stats :
+##  Contribution Stats :
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aakashsingh-Rajput&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&count_private=true" alt="streak stats"/>
@@ -44,7 +44,7 @@ I love building scalable applications and constantly learning new technologies t
 
 ---
 
-## 📫 Let's Connect:
+##  Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashsingh-rajput-5459bb25a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashrajput.amcec@gmail.com)
@@ -57,5 +57,3 @@ I love building scalable applications and constantly learning new technologies t
 
 ---
 
-⚡ **Fun Fact:**  
-> "I'm not a magician, but I turn coffee into full-stack applications. ☕✨💻"
